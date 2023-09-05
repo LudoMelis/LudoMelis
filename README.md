@@ -1,4 +1,4 @@
-Hi, I'm @LudoMelis. I was a software engineer in a company for a few years now.
+Hi, I'm @LudoMelis. I worked a few years as a software engineer in a company. We mainly built SaaS solution around the .NET ecosystem and the Azure cloud service.
 Currently I'd like to broaden my skills with the Godot Game Engine so my main activity will gravitate around this.
 Expect to see POCs rather than actual projects for now.
 
